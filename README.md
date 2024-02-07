@@ -3,7 +3,7 @@ This is the Embedded Design of a Fingerprint Scanner. The main goal is to build 
 
 ***************************************************************************************************
 
-Basic Features: Scanning and Recording Fingerprints, TBA
+Basic Features: Scanning & Recording Fingerprints, TBA
 
 Possible Advanced Features: Comparing Fingerprints, TBA
 
