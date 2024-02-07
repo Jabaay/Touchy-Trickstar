@@ -1,11 +1,11 @@
 # Touchy-Trickstar
-This is the Embedded Design of a Fingerprint Scanner. The main goal is to build a prototype based on an Arduino Uno Rev3 board while implementing features as the project proceeds.
+This is a Fingerprint Scanner, just put your finger on it, and voilà! Your biometrics are mine!
 
 ***************************************************************************************************
 
-Basic Features: Scanning & Recording Fingerprints, TBA
+Goal: Develop a prototype based on an Arduino Uno Rev3 board while implementing features as the project proceeds.
 
-Possible Advanced Features: Comparing Fingerprints, TBA
+Features: Scanning & Recording Fingerprints, more TBA
 
 Design: TBD
 
