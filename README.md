@@ -1,5 +1,5 @@
 # Touchy-Trickstar
-This is the Embedded Design of a Fingerprint Scanner. The main goal is to build a prototype based on an Arduino Uno Rev3 board while implementing features as the project proceeds.
+This is Jiabei Gong's Embedded Design of a Fingerprint Scanner. The main goal is to build a prototype based on an Arduino Uno Rev3 board while implementing features as the project proceeds.
 
 ***************************************************************************************************
 
