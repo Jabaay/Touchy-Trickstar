@@ -3,8 +3,6 @@ This is a Fingerprint Scanner, just put your finger on it, and voilà! Your biom
 
 ***************************************************************************************************
 
-Goal: Arduino-based Fingerprint Scanner
-
 Features: Scanning & Recording, more TBA
 
 Design: TBD
