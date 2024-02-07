@@ -3,10 +3,6 @@ This is the Embedded Design of a Fingerprint Scanner. The main goal is to build 
 
 ***************************************************************************************************
 
-Made by: Jiabei Gong
-
-Chip: Fingerprint Scanner
-
 Basic Features: Scanning & Recording Fingerprints, TBA
 
 Possible Advanced Features: Comparing Fingerprints, TBA
