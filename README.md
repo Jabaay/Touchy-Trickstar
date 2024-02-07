@@ -3,7 +3,7 @@ This is a Fingerprint Scanner, just put your finger on it, and voilà! Your biom
 
 ***************************************************************************************************
 
-Goal: Develop a prototype based on an Arduino R3 board while implementing features as the project proceeds
+Goal: Arduino-based Fingerprint Scanner
 
 Features: Scanning & Recording, more TBA
 
