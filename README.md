@@ -1,4 +1,4 @@
-# Touchy-Trickstar
+# Touchy-Trickstar (Work-In-Progress)
 This is a Fingerprint Scanner, just put your finger on it, and voilà! Your biometrics are mine!
 
 ***************************************************************************************************
