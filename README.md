@@ -6,8 +6,8 @@ This project showcases a simple embedded system utilizing the Arduino Rev3 platf
 
 ## Features: 
 - Basic fingerprint scanner system using Arduino Rev3.
+- Utilizing the SEN0188 sensor for the implementation.
 - Demonstrates biometric authentication principles.
-- Hands-on experience with Arduino programming and interfacing.
 - LED indicators for visual feedback.
 - USB interface for connectivity with external devices.
 
