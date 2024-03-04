@@ -11,7 +11,7 @@ This project showcases a simple embedded system utilizing the Arduino Rev3 platf
 - LED indicators for visual feedback.
 - USB interface for connectivity with external devices.
 
-<br><br>
+<br>
 
 ## Usage:
 - Connect the fingerprint sensor module to the Arduino Rev3 board.
