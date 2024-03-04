@@ -4,12 +4,17 @@ This project showcases a simple embedded system utilizing the Arduino Rev3 platf
 
 ***************************************************************************************************
 
-Features: Scanning & Recording, more TBA
+## Features: 
+- Basic fingerprint scanner system using Arduino Rev3.
+- Demonstrates biometric authentication principles.
+- Hands-on experience with Arduino programming and interfacing.
+- LED indicators for visual feedback.
+- USB interface for connectivity with external devices.
 
-Design: TBD
+<br><br>
 
-Functionality: TBD
-
-Process: TBD
-
-Reference: TBD
+## Usage:
+- Connect the fingerprint sensor module to the Arduino Rev3 board.
+- Upload the provided Arduino code to interface with the fingerprint sensor.
+- Use the system to capture and process fingerprints, demonstrating basic biometric authentication functionality.
+- Refer to the documentation for setup instructions and code explanation.
